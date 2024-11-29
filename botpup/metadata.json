@@ -3,7 +3,7 @@
   "symbol": "BPC",
   "description": "BotPupCoin (BPC) is a utility token designed for the BotPupCoin network, providing access to premium features and incentivizing user engagement.",
   "seller_fee_basis_points": 0,
-  "image": "https://github.com/bielorusov/coinbrothers/blob/master/botpup/assets/icon-light-t.png",
+  "image": "https://raw.githubusercontent.com/bielorusov/coinbrothers/refs/heads/master/botpup/assets/icon-light-t.png",
   "external_url": "https://assistshub.com",
   "attributes": [
     {
@@ -18,7 +18,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://github.com/bielorusov/coinbrothers/blob/master/botpup/assets/icon-light-t.png",
+        "uri": "https://raw.githubusercontent.com/bielorusov/coinbrothers/refs/heads/master/botpup/assets/icon-light-t.png",
         "type": "image/png"
       }
     ],
