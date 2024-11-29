@@ -1,0 +1,1 @@
+BotPup Coin metadata
